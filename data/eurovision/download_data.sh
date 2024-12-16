@@ -1,0 +1,1 @@
+wget -O data/eurovision/votes.csv https://github.com/Spijkervet/eurovision-dataset/releases/download/2023/votes.csv
